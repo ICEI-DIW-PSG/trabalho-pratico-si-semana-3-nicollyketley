@@ -10,7 +10,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome: Nicolly Ketley ornelas silva
+- Nome: Nicolly Ornelas 
 - Matricula: 1625861
 - Proposta de projeto escolhida: Pessoas e Produções – site sobre artistas e suas músicas.Breve descrição sobre seu projeto: Criei o site Mundo da Música para mostrar artistas, seus álbuns e curiosidades.
 
@@ -29,4 +29,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ![alt text](public/print1.png)
 ![alt text](public/print2.png)
 
-> Última revisão: 30/08/2025
+> // revisão 31/08
