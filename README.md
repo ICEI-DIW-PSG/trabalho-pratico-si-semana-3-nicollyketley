@@ -10,17 +10,23 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Nicolly Ketley ornelas silva
+- Matricula: 1625861
+- Proposta de projeto escolhida: Pessoas e Produções – site sobre artistas e suas músicas.Breve descrição sobre seu projeto: Criei o site Mundo da Música para mostrar artistas, seus álbuns e curiosidades.
+
+ Tem banner de destaque, seção de artistas e formulário para receber novidades. Usei HTML e CSS para deixar o site organizado e fácil de navegar.
+
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](public/printesboço.png)
+
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](public/print1.png)
+![alt text](public/print2.png)
+
+> Última revisão: 30/08/2025

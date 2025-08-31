@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* Commit 3: Estilo ajustado no cabeçalho */
 .header {
     background-color: #222;
     color: #fff;
@@ -66,4 +66,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+
+    /* Comentário para registrar estilo no commit */
+
 }
